@@ -1,0 +1,78 @@
+    /*Botones de arriba*/
+    
+    .fc-prev-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+    }
+    
+    .fc-next-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+    }
+    
+    .fc-today-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+        font-size: 13px;
+    }
+    
+    .fc-dayGridMonth-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+        font-size: 13px;
+    }
+    
+    .fc-timeGridWeek-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+        font-size: 13px;
+    }
+    
+    .fc-timeGridDay-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+        font-size: 13px;
+    }
+    
+    .fc-listMonth-button {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+        font-size: 13px;
+    }
+    
+    .fc-state-down {
+        background: #FFFF;
+        color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+    }
+    /* Encabezado de la tabla */
+    
+    .fc-scrollgrid-section-header {
+        background-color: rgb(160, 46, 225);
+        color: white;
+    }
+    /*Color de los botones activados*/
+    
+    .btn.btn-primary.active {
+        background-color: rgb(160, 46, 225) !important;
+        border-color: rgb(160, 46, 225) !important;
+    }
+    
+    .btn.btn-primary:disabled {
+        background-color: rgb(160, 46, 225);
+        border-color: rgb(160, 46, 225);
+    }
+    
+    .btn.btn-primary:active,
+    .btn.btn-primary:hover,
+    .btn.btn-primary:focus {
+        background-color: rgb(160, 46, 225) !important;
+        border-color: rgb(160, 46, 225)!important;
+    }

@@ -1,0 +1,10 @@
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (1, '2020/01/18', '2019/12/24', 2, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (2, '2020/04/27', '2020/02/12', 1, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (3, '2020/08/02', '2020/03/05', 2, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (4, '2020/06/12', '2020/06/04', 4, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (5, '2020/02/25', '2020/05/25', 4, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (6, '2020/10/05', '2020/06/24', 1, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (7, '2020/02/13', '2020/06/20', 2, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (8, '2020/05/01', '2020/12/12', 2, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (9, '2020/07/27', '2020/08/23', 3, 1);
+insert into pagos_clientes (ID, fecha_pago_realizado, fecha_corte_pago, fk_id_clientes, fk_id_sucursales) values (10, '2020/08/12', '2020/01/17', 3, 1);

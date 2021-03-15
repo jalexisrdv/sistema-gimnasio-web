@@ -1,0 +1,11 @@
+insert into usuarios (id, nick, password, tipo, status) values (1, 'kvirgin0', 'tincidunt', 'cliente', 1);
+insert into usuarios (id, nick, password, tipo, status) values (2, 'fsapson1', 'vestibulum', 'entrenador', 1);
+insert into usuarios (id, nick, password, tipo, status) values (3, 'etrussman2', 'lacus', 'entrenador', 1);
+insert into usuarios (id, nick, password, tipo, status) values (4, 'lstobbe3', 'vitae', 'entrenador', 1);
+insert into usuarios (id, nick, password, tipo, status) values (5, 'jprester4', 'pede', 'entrenador', 1);
+insert into usuarios (id, nick, password, tipo, status) values (6, 'awinkle5', 'leo', 'cliente', 1);
+insert into usuarios (id, nick, password, tipo, status) values (7, 'iberlin6', 'dictumst', 'cliente', 1);
+insert into usuarios (id, nick, password, tipo, status) values (8, 'ahandrek7', 'duis', 'cliente', 1);
+insert into usuarios (id, nick, password, tipo, status) values (9, 'dmardell8', 'duis', 'cliente', 1);
+insert into usuarios (id, nick, password, tipo, status) values (10, 'mcofax9', 'at', 'entrenador', 1);
+insert into usuarios (id, nick, password, tipo, status) values (11, 'admin', 'admin', 'sucursal', 1);

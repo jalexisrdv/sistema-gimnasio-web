@@ -1,0 +1,10 @@
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (10, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (5, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (5, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (3, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (4, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (3, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (3, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (2, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (8, 1);
+insert into fechas_importantes_sucursales (fk_id_fechas_importantes, fk_id_sucursales) values (10, 1);

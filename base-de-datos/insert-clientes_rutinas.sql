@@ -1,0 +1,10 @@
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (1, 1);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (2, 2);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (3, 3);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (4, 4);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (1, 5);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (2, 6);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (3, 6);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (4, 1);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (1, 1);
+insert into clientes_rutinas (fk_id_clientes, fk_id_rutinas) values (2, 2);

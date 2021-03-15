@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<monthly>
+	<event>
+		<id>7</id>
+		<name>PRUEBA</name>
+		<startdate>2021-01-13</startdate>
+		<enddate>2021-01-14</enddate>
+		<color>#9f4b99</color>
+		<url>www.google.com.mx</url>
+	</event>
+
+
+
+</monthly>

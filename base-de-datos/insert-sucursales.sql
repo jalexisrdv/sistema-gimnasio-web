@@ -1,0 +1,10 @@
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (1, 'Aba', '0679 Melody Parkway', '60090', 'sed magna at', 1, 11);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (2, 'Bohumín', '3 Talisman Hill', '85032', 'primis in faucibus', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (3, 'Viļāni', '01601 Knutson Plaza', '93503', 'vel ipsum praesent', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (4, 'Zhaocun', '4935 Northwestern Place', '67112', 'donec pharetra magna vestibulum aliquet', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (5, 'Sairam', '7 Hollow Ridge Hill', '67112', 'magna ac consequat metus', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (6, 'Syktyvkar', '011 Hoepker Hill', '34230', 'tincidunt lacus at velit', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (7, 'Minshan', '36 Dryden Parkway', '13867', 'integer tincidunt ante', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (8, 'Thị Trấn Yên Ninh', '13 Buell Plaza', '34230', 'mauris ullamcorper purus sit amet', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (9, 'Beiling', '40 Red Cloud Junction', '41146', 'mi sit amet lobortis sapien', 1, 10);
+insert into sucursales (ID, nombre, direccion, codigo_postal, horarios, status, fk_id_usuarios) values (10, 'Zhangjiaji', '82469 Green Terrace', '67112', 'cras non velit nec', 1, 10);
